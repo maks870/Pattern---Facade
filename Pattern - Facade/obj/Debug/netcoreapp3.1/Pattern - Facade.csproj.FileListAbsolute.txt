@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Pattern - Facade\Pattern - Facade\obj\Debug\netcoreapp3.1\Pattern - Facade.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Pattern - Facade\Pattern - Facade\obj\Debug\netcoreapp3.1\Pattern - Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Pattern - Facade\Pattern - Facade\obj\Debug\netcoreapp3.1\Pattern - Facade.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Facade\Pattern - Facade\obj\Debug\netcoreapp3.1\Pattern - Facade.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Pattern - Facade\Pattern - Facade\obj\Debug\netcoreapp3.1\Pattern - Facade.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Facade\Pattern - Facade\bin\Debug\netcoreapp3.1\Pattern - Facade.exe
+C:\Users\Administrator\source\repos\Pattern - Facade\Pattern - Facade\bin\Debug\netcoreapp3.1\Pattern - Facade.deps.json
+C:\Users\Administrator\source\repos\Pattern - Facade\Pattern - Facade\bin\Debug\netcoreapp3.1\Pattern - Facade.runtimeconfig.json
+C:\Users\Administrator\source\repos\Pattern - Facade\Pattern - Facade\bin\Debug\netcoreapp3.1\Pattern - Facade.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Pattern - Facade\Pattern - Facade\bin\Debug\netcoreapp3.1\Pattern - Facade.dll
+C:\Users\Administrator\source\repos\Pattern - Facade\Pattern - Facade\bin\Debug\netcoreapp3.1\Pattern - Facade.pdb
+C:\Users\Administrator\source\repos\Pattern - Facade\Pattern - Facade\obj\Debug\netcoreapp3.1\Pattern - Facade.dll
+C:\Users\Administrator\source\repos\Pattern - Facade\Pattern - Facade\obj\Debug\netcoreapp3.1\Pattern - Facade.pdb
+C:\Users\Administrator\source\repos\Pattern - Facade\Pattern - Facade\obj\Debug\netcoreapp3.1\Pattern - Facade.genruntimeconfig.cache
